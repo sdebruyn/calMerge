@@ -1,0 +1,17 @@
+{
+  "name": "calmerge",
+  "version": "1.0.0",
+  "description": "Remedial iCal merger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "featherbear",
+  "license": "WTFPL",
+  "dependencies": {
+    "@jacobmischka/ical-merger": "^3.1.0",
+    "fastify": "^2.7.1",
+    "fastify-static": "^2.5.0",
+    "node-fetch": "^2.6.0"
+  }
+}
